@@ -1,7 +1,7 @@
 Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
 Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (4.563s)
+'build' finished successfully (4.508s)
 There are 3 APs in 2 layers.
 Show AP's position: 
 Node Number(0) has coordinates (0, 0, 10)
@@ -76,7 +76,7 @@ Flow 21 (10.1.1.4 -> 10.1.1.1)	Throughput: 4.72768 Mbps	Time: 5.89188	 Delay: 2.
 Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
 Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
 Build commands will be stored in build/compile_commands.json
-'build' finished successfully (4.559s)
+'build' finished successfully (4.488s)
 There are 3 APs in 2 layers.
 Show AP's position: 
 Node Number(0) has coordinates (0, 0, 10)
