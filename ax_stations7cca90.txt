@@ -1,6 +1,372 @@
 Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
 Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
 Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.563s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (0.768199, -6.67746, 1.5)
+Node Number(1) has coordinates (-0.547811, 3.10714, 1.5)
+Node Number(2) has coordinates (-5.90803, -2.08393, 1.5)
+Node Number(3) has coordinates (-6.32321, 0.9041, 1.5)
+Node Number(4) has coordinates (-5.03011, -5.28095, 1.5)
+Node Number(5) has coordinates (-1.04354, 1.1869, 1.5)
+Node Number(6) has coordinates (-2.67228, -0.225541, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (14.1968, 15.6102, 1.5)
+Node Number(1) has coordinates (18.626, 13.5654, 1.5)
+Node Number(2) has coordinates (15.5543, 3.20612, 1.5)
+Node Number(3) has coordinates (17.0316, 12.7799, 1.5)
+Node Number(4) has coordinates (12.936, 8.66041, 1.5)
+Node Number(5) has coordinates (17.1851, 11.5353, 1.5)
+Node Number(6) has coordinates (13.9575, 8.08237, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-7.89853, 14.7852, 1.5)
+Node Number(1) has coordinates (-1.74464, 16.0704, 1.5)
+Node Number(2) has coordinates (4.04357, 15.3015, 1.5)
+Node Number(3) has coordinates (-1.77204, 22.4748, 1.5)
+Node Number(4) has coordinates (0.655733, 11.1429, 1.5)
+Node Number(5) has coordinates (-2.33489, 15.6039, 1.5)
+Node Number(6) has coordinates (0.636513, 10.9395, 1.5)
+Flow 1 (10.1.0.8 -> 10.1.0.1)	Throughput: 7.51511 Mbps	Time: 6.88919	 Delay: 1.232 s 
+
+Flow 2 (10.1.2.5 -> 10.1.2.1)	Throughput: 4.88563 Mbps	Time: 6.83044	 Delay: 1.51313 s 
+
+Flow 3 (10.1.2.2 -> 10.1.2.1)	Throughput: 4.07399 Mbps	Time: 6.72489	 Delay: 1.66398 s 
+
+Flow 4 (10.1.1.3 -> 10.1.1.1)	Throughput: 4.51379 Mbps	Time: 5.8009	 Delay: 1.53194 s 
+
+Flow 5 (10.1.1.2 -> 10.1.1.1)	Throughput: 3.687 Mbps	Time: 6.39715	 Delay: 2.1399 s 
+
+Flow 6 (10.1.1.8 -> 10.1.1.1)	Throughput: 11.8605 Mbps	Time: 6.56413	 Delay: 0.893071 s 
+
+Flow 7 (10.1.2.7 -> 10.1.2.1)	Throughput: 4.78587 Mbps	Time: 6.55913	 Delay: 1.80813 s 
+
+Flow 8 (10.1.0.7 -> 10.1.0.1)	Throughput: 9.75156 Mbps	Time: 6.47691	 Delay: 0.916546 s 
+
+Flow 9 (10.1.1.5 -> 10.1.1.1)	Throughput: 4.06421 Mbps	Time: 5.62601	 Delay: 1.48633 s 
+
+Flow 10 (10.1.0.4 -> 10.1.0.1)	Throughput: 2.23075 Mbps	Time: 3.90918	 Delay: 1.64243 s 
+
+Flow 11 (10.1.0.5 -> 10.1.0.1)	Throughput: 2.78056 Mbps	Time: 6.39587	 Delay: 2.71252 s 
+
+Flow 12 (10.1.2.8 -> 10.1.2.1)	Throughput: 6.96423 Mbps	Time: 4.98403	 Delay: 1.29507 s 
+
+Flow 13 (10.1.1.6 -> 10.1.1.1)	Throughput: 12.6895 Mbps	Time: 6.24266	 Delay: 0.818334 s 
+
+Flow 14 (10.1.2.3 -> 10.1.2.1)	Throughput: 9.32002 Mbps	Time: 6.22793	 Delay: 1.08869 s 
+
+Flow 15 (10.1.0.2 -> 10.1.0.1)	Throughput: 3.79957 Mbps	Time: 6.21364	 Delay: 2.13929 s 
+
+Flow 16 (10.1.2.4 -> 10.1.2.1)	Throughput: 5.92089 Mbps	Time: 6.13868	 Delay: 1.56347 s 
+
+Flow 17 (10.1.2.6 -> 10.1.2.1)	Throughput: 5.73494 Mbps	Time: 5.56745	 Delay: 1.49231 s 
+
+Flow 18 (10.1.0.3 -> 10.1.0.1)	Throughput: 8.70721 Mbps	Time: 5.98674	 Delay: 1.11018 s 
+
+Flow 19 (10.1.0.6 -> 10.1.0.1)	Throughput: 2.60923 Mbps	Time: 6.05708	 Delay: 2.7361 s 
+
+Flow 20 (10.1.1.7 -> 10.1.1.1)	Throughput: 5.34242 Mbps	Time: 5.65519	 Delay: 1.76891 s 
+
+Flow 21 (10.1.1.4 -> 10.1.1.1)	Throughput: 4.72768 Mbps	Time: 5.89188	 Delay: 2.10995 s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.559s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (0.768199, -6.67746, 1.5)
+Node Number(1) has coordinates (-0.547811, 3.10714, 1.5)
+Node Number(2) has coordinates (-5.90803, -2.08393, 1.5)
+Node Number(3) has coordinates (-6.32321, 0.9041, 1.5)
+Node Number(4) has coordinates (-5.03011, -5.28095, 1.5)
+Node Number(5) has coordinates (-1.04354, 1.1869, 1.5)
+Node Number(6) has coordinates (-2.67228, -0.225541, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (14.1968, 15.6102, 1.5)
+Node Number(1) has coordinates (18.626, 13.5654, 1.5)
+Node Number(2) has coordinates (15.5543, 3.20612, 1.5)
+Node Number(3) has coordinates (17.0316, 12.7799, 1.5)
+Node Number(4) has coordinates (12.936, 8.66041, 1.5)
+Node Number(5) has coordinates (17.1851, 11.5353, 1.5)
+Node Number(6) has coordinates (13.9575, 8.08237, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-7.89853, 14.7852, 1.5)
+Node Number(1) has coordinates (-1.74464, 16.0704, 1.5)
+Node Number(2) has coordinates (4.04357, 15.3015, 1.5)
+Node Number(3) has coordinates (-1.77204, 22.4748, 1.5)
+Node Number(4) has coordinates (0.655733, 11.1429, 1.5)
+Node Number(5) has coordinates (-2.33489, 15.6039, 1.5)
+Node Number(6) has coordinates (0.636513, 10.9395, 1.5)
+Flow 1 (10.1.0.2 -> 10.1.0.1)	Throughput: 5.53084 Mbps	Time: 6.48469	 Delay: 1.45983 s 
+
+Flow 2 (10.1.2.7 -> 10.1.2.1)	Throughput: 10.2678 Mbps	Time: 6.8969	 Delay: 1.00667 s 
+
+Flow 3 (10.1.2.4 -> 10.1.2.1)	Throughput: 9.629 Mbps	Time: 6.7816	 Delay: 1.07465 s 
+
+Flow 4 (10.1.0.3 -> 10.1.0.1)	Throughput: 9.65601 Mbps	Time: 6.78988	 Delay: 1.09578 s 
+
+Flow 5 (10.1.0.6 -> 10.1.0.1)	Throughput: 3.02456 Mbps	Time: 6.33016	 Delay: 1.80789 s 
+
+Flow 6 (10.1.2.3 -> 10.1.2.1)	Throughput: 8.39209 Mbps	Time: 5.99063	 Delay: 1.24589 s 
+
+Flow 7 (10.1.0.5 -> 10.1.0.1)	Throughput: 3.71396 Mbps	Time: 6.31372	 Delay: 2.28782 s 
+
+Flow 8 (10.1.1.2 -> 10.1.1.1)	Throughput: 3.8605 Mbps	Time: 2.11362	 Delay: 1.17028 s 
+
+Flow 9 (10.1.1.6 -> 10.1.1.1)	Throughput: 11.1928 Mbps	Time: 6.52221	 Delay: 0.902981 s 
+
+Flow 10 (10.1.1.8 -> 10.1.1.1)	Throughput: 9.54934 Mbps	Time: 6.53017	 Delay: 1.04144 s 
+
+Flow 11 (10.1.1.5 -> 10.1.1.1)	Throughput: 5.75584 Mbps	Time: 6.41611	 Delay: 1.60597 s 
+
+Flow 12 (10.1.2.5 -> 10.1.2.1)	Throughput: 4.02958 Mbps	Time: 6.50082	 Delay: 2.15445 s 
+
+Flow 13 (10.1.0.8 -> 10.1.0.1)	Throughput: 6.93094 Mbps	Time: 6.51218	 Delay: 1.52763 s 
+
+Flow 14 (10.1.2.6 -> 10.1.2.1)	Throughput: 6.60697 Mbps	Time: 6.47987	 Delay: 1.45706 s 
+
+Flow 15 (10.1.1.4 -> 10.1.1.1)	Throughput: 4.27922 Mbps	Time: 4.73626	 Delay: 1.83396 s 
+
+Flow 16 (10.1.2.8 -> 10.1.2.1)	Throughput: 3.99773 Mbps	Time: 5.17852	 Delay: 1.80332 s 
+
+Flow 17 (10.1.1.7 -> 10.1.1.1)	Throughput: 6.95574 Mbps	Time: 6.14674	 Delay: 1.52405 s 
+
+Flow 18 (10.1.0.4 -> 10.1.0.1)	Throughput: 1.34354 Mbps	Time: 6.27764	 Delay: 3.74765 s 
+
+Flow 19 (10.1.0.7 -> 10.1.0.1)	Throughput: 7.31482 Mbps	Time: 6.33625	 Delay: 1.36125 s 
+
+Flow 20 (10.1.2.2 -> 10.1.2.1)	Throughput: 1.95755 Mbps	Time: 5.10368	 Delay: 1.69459 s 
+
+Flow 21 (10.1.1.3 -> 10.1.1.1)	Throughput: 3.20512 Mbps	Time: 5.98427	 Delay: 1.91956 s 
+
+Traceback (most recent call last):
+  File "./waf", line 33, in <module>
+    import os, sys, inspect
+  File "/usr/lib/python2.7/inspect.py", line 39, in <module>
+    import tokenize
+  File "/usr/lib/python2.7/tokenize.py", line 103, in <module>
+    re.compile, (Token, PseudoToken, Single3, Double3))
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 572, in compile
+    p = sre_parse.parse(p, flags)
+  File "/usr/lib/python2.7/sre_parse.py", line 735, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/usr/lib/python2.7/sre_parse.py", line 343, in _parse_sub
+    itemsappend(_parse(source, state, nested + 1))
+  File "/usr/lib/python2.7/sre_parse.py", line 695, in _parse
+    p = _parse_sub(source, state, nested + 1)
+  File "/usr/lib/python2.7/sre_parse.py", line 343, in _parse_sub
+    itemsappend(_parse(source, state, nested + 1))
+  File "/usr/lib/python2.7/sre_parse.py", line 470, in _parse
+    if sourcematch("-"):
+  File "/usr/lib/python2.7/sre_parse.py", line 210, in match
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 205, in __next
+    self.index = self.index + len(char)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/platform.py", line 1382, in <module>
+    r'IronPython\s*'
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 576, in compile
+    code = _code(p, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 558, in _code
+    _compile_info(code, p, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 519, in _compile_info
+    if hi < MAXCODE:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/platform.py", line 10, in <module>
+    """
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/platform.py", line 1389, in <module>
+    r'([\d.]+)\s*'
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 572, in compile
+    p = sre_parse.parse(p, flags)
+  File "/usr/lib/python2.7/sre_parse.py", line 735, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/usr/lib/python2.7/sre_parse.py", line 343, in _parse_sub
+    itemsappend(_parse(source, state, nested + 1))
+  File "/usr/lib/python2.7/sre_parse.py", line 432, in _parse
+    this = sourceget()
+  File "/usr/lib/python2.7/sre_parse.py", line 215, in get
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 198, in __next
+    char = self.string[self.index]
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/platform.py", line 325, in <module>
+    _distributor_id_file_re = re.compile("(?:DISTRIB_ID\s*=)\s*(.*)", re.I)
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 255, in _compile
+    if p.flags & LOCALE:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/platform.py", line 1389, in <module>
+    r'([\d.]+)\s*'
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 572, in compile
+    p = sre_parse.parse(p, flags)
+  File "/usr/lib/python2.7/sre_parse.py", line 735, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/usr/lib/python2.7/sre_parse.py", line 343, in _parse_sub
+    itemsappend(_parse(source, state, nested + 1))
+  File "/usr/lib/python2.7/sre_parse.py", line 695, in _parse
+    p = _parse_sub(source, state, nested + 1)
+  File "/usr/lib/python2.7/sre_parse.py", line 343, in _parse_sub
+    itemsappend(_parse(source, state, nested + 1))
+  File "/usr/lib/python2.7/sre_parse.py", line 432, in _parse
+    this = sourceget()
+  File "/usr/lib/python2.7/sre_parse.py", line 215, in get
+    self.__next()
+  File "/usr/lib/python2.7/sre_parse.py", line 205, in __next
+    self.index = self.index + len(char)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/atexit.py", line 6, in <module>
+    """
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/platform.py", line 1389, in <module>
+    r'([\d.]+)\s*'
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 576, in compile
+    code = _code(p, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 558, in _code
+    _compile_info(code, p, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 437, in _compile_info
+    lo, hi = pattern.getwidth()
+  File "/usr/lib/python2.7/sre_parse.py", line 174, in getwidth
+    i, j = av[1].getwidth()
+  File "/usr/lib/python2.7/sre_parse.py", line 178, in getwidth
+    i, j = av[2].getwidth()
+  File "/usr/lib/python2.7/sre_parse.py", line 174, in getwidth
+    i, j = av[1].getwidth()
+  File "/usr/lib/python2.7/sre_parse.py", line 178, in getwidth
+    i, j = av[2].getwidth()
+  File "/usr/lib/python2.7/sre_parse.py", line 182, in getwidth
+    lo = lo + 1
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 33, in <module>
+    import os, sys, inspect
+  File "/usr/lib/python2.7/inspect.py", line 39, in <module>
+    import tokenize
+  File "/usr/lib/python2.7/tokenize.py", line 103, in <module>
+    re.compile, (Token, PseudoToken, Single3, Double3))
+  File "/usr/lib/python2.7/re.py", line 194, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python2.7/re.py", line 249, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 576, in compile
+    code = _code(p, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 561, in _code
+    _compile(code, p.data, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 151, in _compile
+    _compile(code, av[1], flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 192, in _compile
+    _compile(code, av, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 151, in _compile
+    _compile(code, av[1], flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 192, in _compile
+    _compile(code, av, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 151, in _compile
+    _compile(code, av[1], flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 192, in _compile
+    _compile(code, av, flags)
+  File "/usr/lib/python2.7/sre_compile.py", line 78, in _compile
+    for op, av in pattern:
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 6, in <module>
+    import os,shlex,shutil,traceback,errno,sys,stat
+  File "/usr/lib/python2.7/shutil.py", line 45, in <module>
+    class Error(EnvironmentError):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "./waf", line 164, in <module>
+    from waflib import Scripting
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Scripting.py", line 7, in <module>
+    from waflib import Utils,Configure,Logs,Options,ConfigSet,Context,Errors,Build,Node
+  File "/home/osboxes/ns-allinone-3.29/ns-3.29/.waf-2.0.9-897e824215d3dab2b64982d8af27db90/waflib/Utils.py", line 6, in <module>
+    import atexit,os,sys,errno,inspect,re,datetime,platform,base64,signal,functools,time
+  File "/usr/lib/python2.7/atexit.py", line 6, in <module>
+    """
+KeyboardInterrupt
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
 'build' finished successfully (4.511s)
 There are 3 APs in 2 layers.
 Show AP's position: 

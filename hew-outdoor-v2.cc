@@ -81,7 +81,7 @@ int main (int argc, char *argv[])
 	int simulationTime = 10;
 	int warmupTime = 3;
 	int packetSize = 1472;
-	//int  ccaThreshold = -79;
+	int  ccaThreshold = -99;
 
 	bool attack = false;
 	uint32_t egoStaNr = 1;
@@ -106,7 +106,7 @@ int main (int argc, char *argv[])
 	cmd.AddValue ("egoStaNr", "number of egoistic stations", egoStaNr);
 	cmd.AddValue ("cw_min", "Change the value of CW min", cw_min);
   	cmd.AddValue ("cw_max", "Change the value of CW max", cw_max);
-	//cmd.AddValue ("ccaThreshold", "CCA Threshold [dBm]", ccaThreshold);
+	cmd.AddValue ("ccaThreshold", "CCA Threshold [dBm]", ccaThreshold);
 	cmd.Parse (argc,argv);
 
 	int APs =  countAPs(layers);
@@ -257,8 +257,8 @@ int main (int argc, char *argv[])
 	wifiPhy.Set ("RxNoiseFigure", DoubleValue (7));
 	wifiPhy.Set("Antennas",UintegerValue(2)); //changed
 
-	//wifiPhy.Set ("CcaMode1Threshold", DoubleValue (ccaThreshold));
-	//wifiPhy.Set ("EnergyDetectionThreshold", DoubleValue (ccaThreshold + 3));
+	wifiPhy.Set ("CcaMode1Threshold", DoubleValue (ccaThreshold));
+	wifiPhy.Set ("EnergyDetectionThreshold", DoubleValue (ccaThreshold + 3));
 	wifiPhy.SetErrorRateModel ("ns3::YansErrorRateModel");
 	wifiPhy.Set ("ShortGuardEnabled", BooleanValue (true));
 
@@ -611,8 +611,15 @@ double **calculateAPpositions(int h, int layers) {
 	AP_co[1]=new double[APnum];
 
 	for (int p=0;p<APnum;p++){
-		AP_co[0][p]=x_co[p];
-		AP_co[1][p]=y_co[p];
+		if (p==1) {
+			AP_co[0][p]=2*x_co[p];
+			AP_co[1][p]=2*y_co[p]; }
+		else if (p==2) {
+			AP_co[0][p]=x_co[p];
+			AP_co[1][p]=2*y_co[p]; }
+		else {
+			AP_co[0][p]=x_co[p];
+			AP_co[1][p]=y_co[p]; }
 	}
 
 	return AP_co;

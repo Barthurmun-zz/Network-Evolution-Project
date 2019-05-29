@@ -1,0 +1,965 @@
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.419s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.0.6 -> 10.1.0.1)	Throughput: 2.84614 Mbps	Time: 2.24769	 Delay: 0.0939974 s 
+
+Flow 2 (10.1.1.11 -> 10.1.1.1)	Throughput: 23.9591 Mbps	Time: 6.95077	 Delay: 0.0382488 s 
+
+Flow 3 (10.1.2.11 -> 10.1.2.1)	Throughput: 22.0538 Mbps	Time: 6.84815	 Delay: 0.319638 s 
+
+Flow 4 (10.1.1.13 -> 10.1.1.1)	Throughput: 1.42846 Mbps	Time: 6.00862	 Delay: 1.31465 s 
+
+Flow 5 (10.1.0.3 -> 10.1.0.1)	Throughput: 3.17516 Mbps	Time: 6.24257	 Delay: 2.37701 s 
+
+Flow 6 (10.1.0.9 -> 10.1.0.1)	Throughput: 21.8267 Mbps	Time: 0.009962	 Delay: 0.00330581 s 
+
+Flow 7 (10.1.2.5 -> 10.1.2.1)	Throughput: 1.46841 Mbps	Time: 4.48128	 Delay: 0.105597 s 
+
+Flow 8 (10.1.1.3 -> 10.1.1.1)	Throughput: 1.40561 Mbps	Time: 3.31369	 Delay: 1.07028 s 
+
+Flow 9 (10.1.1.4 -> 10.1.1.1)	Throughput: 4.93534 Mbps	Time: 6.63411	 Delay: 1.84012 s 
+
+Flow 10 (10.1.0.13 -> 10.1.0.1)	Throughput: 4.15864 Mbps	Time: 6.32107	 Delay: 1.88604 s 
+
+Flow 11 (10.1.2.2 -> 10.1.2.1)	Throughput: 11.9444 Mbps	Time: 0.267313	 Delay: 0.0900789 s 
+
+Flow 12 (10.1.0.11 -> 10.1.0.1)	Throughput: 18.9398 Mbps	Time: 6.71184	 Delay: 0.537946 s 
+
+Flow 13 (10.1.2.15 -> 10.1.2.1)	Throughput: 0.538207 Mbps	Time: 4.40152	 Delay: 2.92992 s 
+
+Flow 14 (10.1.1.7 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.37168	 Delay: -nan s 
+
+Flow 15 (10.1.1.14 -> 10.1.1.1)	Throughput: 19.8527 Mbps	Time: 6.62746	 Delay: 0.410078 s 
+
+Flow 16 (10.1.1.2 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.39125	 Delay: -nan s 
+
+Flow 17 (10.1.0.8 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.39663	 Delay: -nan s 
+
+Flow 18 (10.1.2.14 -> 10.1.2.1)	Throughput: 11.3633 Mbps	Time: 6.55731	 Delay: 0.88561 s 
+
+Flow 19 (10.1.1.15 -> 10.1.1.1)	Throughput: 0.342798 Mbps	Time: 6.27626	 Delay: 4.27482 s 
+
+Flow 20 (10.1.2.7 -> 10.1.2.1)	Throughput: -0 Mbps	Time: -3.47113	 Delay: -nan s 
+
+Flow 21 (10.1.0.7 -> 10.1.0.1)	Throughput: 5.59292 Mbps	Time: 5.73747	 Delay: 1.75312 s 
+
+Flow 22 (10.1.2.10 -> 10.1.2.1)	Throughput: 0.945673 Mbps	Time: 4.28394	 Delay: 3.16389 s 
+
+Flow 23 (10.1.0.12 -> 10.1.0.1)	Throughput: 1.19426 Mbps	Time: 6.13283	 Delay: 4.14412 s 
+
+Flow 24 (10.1.2.8 -> 10.1.2.1)	Throughput: 21.7349 Mbps	Time: 6.45	 Delay: 0.335183 s 
+
+Flow 25 (10.1.0.5 -> 10.1.0.1)	Throughput: 17.0949 Mbps	Time: 6.40325	 Delay: 0.586367 s 
+
+Flow 26 (10.1.0.14 -> 10.1.0.1)	Throughput: 0.704898 Mbps	Time: 4.31854	 Delay: 2.4206 s 
+
+Flow 27 (10.1.0.2 -> 10.1.0.1)	Throughput: 1.03686 Mbps	Time: 6.4016	 Delay: 3.15045 s 
+
+Flow 28 (10.1.2.6 -> 10.1.2.1)	Throughput: 0.32335 Mbps	Time: 4.81335	 Delay: 2.42885 s 
+
+Flow 29 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.117453 Mbps	Time: 3.99484	 Delay: 3.82433 s 
+
+Flow 30 (10.1.2.9 -> 10.1.2.1)	Throughput: 0.275835 Mbps	Time: 3.48507	 Delay: 3.39863 s 
+
+Flow 31 (10.1.1.5 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.6447	 Delay: -nan s 
+
+Flow 32 (10.1.1.9 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.69769	 Delay: -nan s 
+
+Flow 33 (10.1.2.13 -> 10.1.2.1)	Throughput: 13.3369 Mbps	Time: 6.23049	 Delay: 0.863471 s 
+
+Flow 34 (10.1.1.10 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.70624	 Delay: -nan s 
+
+Flow 35 (10.1.2.4 -> 10.1.2.1)	Throughput: 2.50325 Mbps	Time: 5.76948	 Delay: 2.82165 s 
+
+Flow 36 (10.1.1.8 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.73437	 Delay: -nan s 
+
+Flow 37 (10.1.2.12 -> 10.1.2.1)	Throughput: 0.4642 Mbps	Time: 2.07088	 Delay: 1.15102 s 
+
+Flow 38 (10.1.0.4 -> 10.1.0.1)	Throughput: 18.143 Mbps	Time: 6.15255	 Delay: 0.46416 s 
+
+Flow 39 (10.1.1.12 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.85699	 Delay: -nan s 
+
+Flow 40 (10.1.0.10 -> 10.1.0.1)	Throughput: 3.16483 Mbps	Time: 0.607492	 Delay: 0.358294 s 
+
+Flow 41 (10.1.2.3 -> 10.1.2.1)	Throughput: 1.69625 Mbps	Time: 6.08551	 Delay: 3.11851 s 
+
+Flow 42 (10.1.1.6 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -4.00022	 Delay: -nan s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.447s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.0.5 -> 10.1.0.1)	Throughput: 15.2911 Mbps	Time: 6.93706	 Delay: 0.656404 s 
+
+Flow 2 (10.1.2.13 -> 10.1.2.1)	Throughput: 10.4562 Mbps	Time: 6.96195	 Delay: 0.922772 s 
+
+Flow 3 (10.1.0.10 -> 10.1.0.1)	Throughput: 6.19884 Mbps	Time: 1.0597	 Delay: 0.18853 s 
+
+Flow 4 (10.1.2.2 -> 10.1.2.1)	Throughput: 0.680348 Mbps	Time: 6.93023	 Delay: 2.48341 s 
+
+Flow 5 (10.1.2.11 -> 10.1.2.1)	Throughput: 21.2454 Mbps	Time: 6.90994	 Delay: 0.377357 s 
+
+Flow 6 (10.1.0.7 -> 10.1.0.1)	Throughput: 6.48232 Mbps	Time: 6.14018	 Delay: 1.40856 s 
+
+Flow 7 (10.1.2.9 -> 10.1.2.1)	Throughput: 8.54544 Mbps	Time: 0.224986	 Delay: 0.110164 s 
+
+Flow 8 (10.1.0.6 -> 10.1.0.1)	Throughput: 17.1406 Mbps	Time: 0.112167	 Delay: 0.032985 s 
+
+Flow 9 (10.1.1.9 -> 10.1.1.1)	Throughput: 16.6071 Mbps	Time: 6.82495	 Delay: 0.569345 s 
+
+Flow 10 (10.1.0.11 -> 10.1.0.1)	Throughput: 12.1982 Mbps	Time: 6.81115	 Delay: 0.851225 s 
+
+Flow 11 (10.1.1.8 -> 10.1.1.1)	Throughput: 5.55148 Mbps	Time: 6.78835	 Delay: 1.84091 s 
+
+Flow 12 (10.1.2.7 -> 10.1.2.1)	Throughput: 0.203247 Mbps	Time: 4.67342	 Delay: 4.2722 s 
+
+Flow 13 (10.1.2.14 -> 10.1.2.1)	Throughput: 15.1888 Mbps	Time: 6.75095	 Delay: 0.627907 s 
+
+Flow 14 (10.1.2.10 -> 10.1.2.1)	Throughput: 0.77 Mbps	Time: 5.84095	 Delay: 3.84205 s 
+
+Flow 15 (10.1.0.4 -> 10.1.0.1)	Throughput: 19.3751 Mbps	Time: 6.66029	 Delay: 0.460371 s 
+
+Flow 16 (10.1.1.12 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.3516	 Delay: -nan s 
+
+Flow 17 (10.1.1.3 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.35347	 Delay: -nan s 
+
+Flow 18 (10.1.1.5 -> 10.1.1.1)	Throughput: 1.42147 Mbps	Time: 1.00636	 Delay: 0.945033 s 
+
+Flow 19 (10.1.2.12 -> 10.1.2.1)	Throughput: -0 Mbps	Time: -3.36831	 Delay: -nan s 
+
+Flow 20 (10.1.0.2 -> 10.1.0.1)	Throughput: 0.382573 Mbps	Time: 4.48702	 Delay: 0.91681 s 
+
+Flow 21 (10.1.0.8 -> 10.1.0.1)	Throughput: 1.21369 Mbps	Time: 6.33641	 Delay: 3.92985 s 
+
+Flow 22 (10.1.2.3 -> 10.1.2.1)	Throughput: 1.03005 Mbps	Time: 6.01064	 Delay: 3.84078 s 
+
+Flow 23 (10.1.0.14 -> 10.1.0.1)	Throughput: 1.30671 Mbps	Time: 1.1035	 Delay: 0.938592 s 
+
+Flow 24 (10.1.1.7 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.45036	 Delay: -nan s 
+
+Flow 25 (10.1.1.6 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.49501	 Delay: -nan s 
+
+Flow 26 (10.1.2.4 -> 10.1.2.1)	Throughput: 3.80609 Mbps	Time: 5.83316	 Delay: 2.20781 s 
+
+Flow 27 (10.1.1.14 -> 10.1.1.1)	Throughput: 13.4732 Mbps	Time: 6.40953	 Delay: 0.756536 s 
+
+Flow 28 (10.1.0.9 -> 10.1.0.1)	Throughput: 0.896367 Mbps	Time: 3.47268	 Delay: 2.5699 s 
+
+Flow 29 (10.1.0.12 -> 10.1.0.1)	Throughput: 0.997851 Mbps	Time: 4.16315	 Delay: 2.85789 s 
+
+Flow 30 (10.1.0.13 -> 10.1.0.1)	Throughput: 2.73291 Mbps	Time: 6.35244	 Delay: 2.98255 s 
+
+Flow 31 (10.1.2.15 -> 10.1.2.1)	Throughput: 0.286237 Mbps	Time: 5.39746	 Delay: 2.53887 s 
+
+Flow 32 (10.1.1.4 -> 10.1.1.1)	Throughput: 2.31706 Mbps	Time: 4.13893	 Delay: 2.12302 s 
+
+Flow 33 (10.1.1.10 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.72373	 Delay: -nan s 
+
+Flow 34 (10.1.0.3 -> 10.1.0.1)	Throughput: 1.25784 Mbps	Time: 5.81377	 Delay: 2.84018 s 
+
+Flow 35 (10.1.1.15 -> 10.1.1.1)	Throughput: 1.22172 Mbps	Time: 4.4869	 Delay: 2.2474 s 
+
+Flow 36 (10.1.1.11 -> 10.1.1.1)	Throughput: 24.098 Mbps	Time: 6.15562	 Delay: 0.0853696 s 
+
+Flow 37 (10.1.2.8 -> 10.1.2.1)	Throughput: 19.9543 Mbps	Time: 6.14924	 Delay: 0.312463 s 
+
+Flow 38 (10.1.1.13 -> 10.1.1.1)	Throughput: 0.402169 Mbps	Time: 5.94729	 Delay: 3.74589 s 
+
+Flow 39 (10.1.2.5 -> 10.1.2.1)	Throughput: 0.548378 Mbps	Time: 5.15464	 Delay: 3.55026 s 
+
+Flow 40 (10.1.2.6 -> 10.1.2.1)	Throughput: 0.872803 Mbps	Time: 1.97989	 Delay: 0.762417 s 
+
+Flow 41 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.707804 Mbps	Time: 5.07689	 Delay: 3.09003 s 
+
+Flow 42 (10.1.1.2 -> 10.1.1.1)	Throughput: 1.11931 Mbps	Time: 5.1121	 Delay: 2.87223 s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.442s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.2.15 -> 10.1.2.1)	Throughput: 1.21642 Mbps	Time: 6.75494	 Delay: 1.94836 s 
+
+Flow 2 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.977264 Mbps	Time: 3.75902	 Delay: 0.41311 s 
+
+Flow 3 (10.1.0.13 -> 10.1.0.1)	Throughput: 2.72098 Mbps	Time: 6.95651	 Delay: 3.06857 s 
+
+Flow 4 (10.1.0.12 -> 10.1.0.1)	Throughput: 1.50648 Mbps	Time: 3.5324	 Delay: 0.705752 s 
+
+Flow 5 (10.1.0.11 -> 10.1.0.1)	Throughput: 7.96579 Mbps	Time: 6.66608	 Delay: 1.24852 s 
+
+Flow 6 (10.1.1.12 -> 10.1.1.1)	Throughput: 5.51413 Mbps	Time: 6.11832	 Delay: 1.71418 s 
+
+Flow 7 (10.1.0.7 -> 10.1.0.1)	Throughput: 7.45245 Mbps	Time: 6.85806	 Delay: 1.35309 s 
+
+Flow 8 (10.1.0.14 -> 10.1.0.1)	Throughput: 1.08146 Mbps	Time: 3.86246	 Delay: 2.46027 s 
+
+Flow 9 (10.1.0.10 -> 10.1.0.1)	Throughput: 23.6203 Mbps	Time: 0.0654077	 Delay: 0.010955 s 
+
+Flow 10 (10.1.2.9 -> 10.1.2.1)	Throughput: 24.2321 Mbps	Time: 0.0103899	 Delay: 0.00218766 s 
+
+Flow 11 (10.1.0.3 -> 10.1.0.1)	Throughput: 3.14284 Mbps	Time: 3.52844	 Delay: 1.36336 s 
+
+Flow 12 (10.1.2.6 -> 10.1.2.1)	Throughput: 11.1954 Mbps	Time: 0.446706	 Delay: 0.12615 s 
+
+Flow 13 (10.1.2.8 -> 10.1.2.1)	Throughput: 20.0865 Mbps	Time: 6.77138	 Delay: 0.336598 s 
+
+Flow 14 (10.1.1.14 -> 10.1.1.1)	Throughput: 11.1823 Mbps	Time: 6.39222	 Delay: 1.00426 s 
+
+Flow 15 (10.1.1.5 -> 10.1.1.1)	Throughput: 7.11246 Mbps	Time: 0.199519	 Delay: 0.1243 s 
+
+Flow 16 (10.1.1.8 -> 10.1.1.1)	Throughput: 8.19926 Mbps	Time: 6.7261	 Delay: 1.28078 s 
+
+Flow 17 (10.1.0.2 -> 10.1.0.1)	Throughput: 1.93906 Mbps	Time: 5.86648	 Delay: 2.88925 s 
+
+Flow 18 (10.1.0.4 -> 10.1.0.1)	Throughput: 23.8404 Mbps	Time: 6.69064	 Delay: 0.174275 s 
+
+Flow 19 (10.1.1.9 -> 10.1.1.1)	Throughput: 10.6579 Mbps	Time: 6.63805	 Delay: 0.967073 s 
+
+Flow 20 (10.1.1.10 -> 10.1.1.1)	Throughput: 1.9499 Mbps	Time: 0.721893	 Delay: 0.673782 s 
+
+Flow 21 (10.1.2.12 -> 10.1.2.1)	Throughput: 0.955963 Mbps	Time: 3.01676	 Delay: 1.62605 s 
+
+Flow 22 (10.1.2.5 -> 10.1.2.1)	Throughput: 2.56173 Mbps	Time: 3.29242	 Delay: 1.35044 s 
+
+Flow 23 (10.1.2.7 -> 10.1.2.1)	Throughput: 0.218155 Mbps	Time: 6.1901	 Delay: 4.24064 s 
+
+Flow 24 (10.1.2.10 -> 10.1.2.1)	Throughput: 2.23396 Mbps	Time: 3.86258	 Delay: 2.47851 s 
+
+Flow 25 (10.1.1.4 -> 10.1.1.1)	Throughput: 1.22176 Mbps	Time: 6.05101	 Delay: 2.30788 s 
+
+Flow 26 (10.1.1.15 -> 10.1.1.1)	Throughput: 0.321481 Mbps	Time: 5.16172	 Delay: 5.01707 s 
+
+Flow 27 (10.1.1.7 -> 10.1.1.1)	Throughput: 0.595342 Mbps	Time: 3.2102	 Delay: 1.65469 s 
+
+Flow 28 (10.1.2.14 -> 10.1.2.1)	Throughput: 14.7315 Mbps	Time: 5.95995	 Delay: 0.651888 s 
+
+Flow 29 (10.1.1.11 -> 10.1.1.1)	Throughput: 20.2823 Mbps	Time: 6.31556	 Delay: 0.424482 s 
+
+Flow 30 (10.1.0.8 -> 10.1.0.1)	Throughput: 0.388133 Mbps	Time: 4.65863	 Delay: 2.01878 s 
+
+Flow 31 (10.1.1.2 -> 10.1.1.1)	Throughput: 0.220287 Mbps	Time: 4.00021	 Delay: 1.81192 s 
+
+Flow 32 (10.1.2.3 -> 10.1.2.1)	Throughput: 2.72277 Mbps	Time: 0.17653	 Delay: 0.165113 s 
+
+Flow 33 (10.1.0.9 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.7411	 Delay: -nan s 
+
+Flow 34 (10.1.0.6 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.74566	 Delay: -nan s 
+
+Flow 35 (10.1.2.4 -> 10.1.2.1)	Throughput: 3.58242 Mbps	Time: 5.24539	 Delay: 2.38503 s 
+
+Flow 36 (10.1.2.13 -> 10.1.2.1)	Throughput: 9.50362 Mbps	Time: 6.21479	 Delay: 1.09957 s 
+
+Flow 37 (10.1.1.6 -> 10.1.1.1)	Throughput: 5.0074 Mbps	Time: 6.19353	 Delay: 1.45388 s 
+
+Flow 38 (10.1.1.13 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.84657	 Delay: -nan s 
+
+Flow 39 (10.1.2.2 -> 10.1.2.1)	Throughput: 1.3872 Mbps	Time: 5.54386	 Delay: 2.26925 s 
+
+Flow 40 (10.1.1.3 -> 10.1.1.1)	Throughput: 0.286936 Mbps	Time: 5.62361	 Delay: 3.96045 s 
+
+Flow 41 (10.1.0.5 -> 10.1.0.1)	Throughput: 17.6964 Mbps	Time: 6.07178	 Delay: 0.564267 s 
+
+Flow 42 (10.1.2.11 -> 10.1.2.1)	Throughput: 19.5269 Mbps	Time: 6.07108	 Delay: 0.545829 s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.436s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.2.6 -> 10.1.2.1)	Throughput: 12.7207 Mbps	Time: 0.547885	 Delay: 0.0660328 s 
+
+Flow 2 (10.1.0.10 -> 10.1.0.1)	Throughput: 1.31623 Mbps	Time: 6.84263	 Delay: 1.57984 s 
+
+Flow 3 (10.1.1.10 -> 10.1.1.1)	Throughput: 2.15243 Mbps	Time: 5.80064	 Delay: 1.76174 s 
+
+Flow 4 (10.1.0.5 -> 10.1.0.1)	Throughput: 20.2813 Mbps	Time: 6.91061	 Delay: 0.492913 s 
+
+Flow 5 (10.1.1.12 -> 10.1.1.1)	Throughput: 9.17327 Mbps	Time: 6.78791	 Delay: 1.20884 s 
+
+Flow 6 (10.1.2.4 -> 10.1.2.1)	Throughput: 0.845986 Mbps	Time: 1.81269	 Delay: 0.207617 s 
+
+Flow 7 (10.1.0.12 -> 10.1.0.1)	Throughput: 0.890324 Mbps	Time: 6.19556	 Delay: 3.06891 s 
+
+Flow 8 (10.1.2.8 -> 10.1.2.1)	Throughput: 24.2598 Mbps	Time: 6.84905	 Delay: 0.0485912 s 
+
+Flow 9 (10.1.0.11 -> 10.1.0.1)	Throughput: 15.8805 Mbps	Time: 6.82806	 Delay: 0.693652 s 
+
+Flow 10 (10.1.1.9 -> 10.1.1.1)	Throughput: 23.9135 Mbps	Time: 6.8066	 Delay: 0.0617674 s 
+
+Flow 11 (10.1.0.4 -> 10.1.0.1)	Throughput: 24.2284 Mbps	Time: 6.8036	 Delay: 0.0571896 s 
+
+Flow 12 (10.1.2.10 -> 10.1.2.1)	Throughput: 1.65086 Mbps	Time: 5.86466	 Delay: 2.28079 s 
+
+Flow 13 (10.1.2.9 -> 10.1.2.1)	Throughput: 0.373862 Mbps	Time: 4.43852	 Delay: 1.34324 s 
+
+Flow 14 (10.1.2.3 -> 10.1.2.1)	Throughput: 2.0163 Mbps	Time: 5.73821	 Delay: 2.04424 s 
+
+Flow 15 (10.1.1.3 -> 10.1.1.1)	Throughput: 0.651435 Mbps	Time: 5.53377	 Delay: 3.78681 s 
+
+Flow 16 (10.1.2.7 -> 10.1.2.1)	Throughput: 0.087541 Mbps	Time: 5.62132	 Delay: 5.41077 s 
+
+Flow 17 (10.1.1.2 -> 10.1.1.1)	Throughput: 1.01232 Mbps	Time: 6.01415	 Delay: 3.84472 s 
+
+Flow 18 (10.1.0.7 -> 10.1.0.1)	Throughput: 3.79121 Mbps	Time: 6.45978	 Delay: 2.05101 s 
+
+Flow 19 (10.1.0.14 -> 10.1.0.1)	Throughput: 3.69025 Mbps	Time: 0.198475	 Delay: 0.182081 s 
+
+Flow 20 (10.1.2.12 -> 10.1.2.1)	Throughput: 2.01706 Mbps	Time: 4.82828	 Delay: 2.07595 s 
+
+Flow 21 (10.1.1.14 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.59713	 Delay: -nan s 
+
+Flow 22 (10.1.1.6 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.59925	 Delay: -nan s 
+
+Flow 23 (10.1.0.9 -> 10.1.0.1)	Throughput: 0.453295 Mbps	Time: 2.1207	 Delay: 1.12198 s 
+
+Flow 24 (10.1.1.15 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.62558	 Delay: -nan s 
+
+Flow 25 (10.1.2.13 -> 10.1.2.1)	Throughput: 15.5489 Mbps	Time: 6.35468	 Delay: 0.647423 s 
+
+Flow 26 (10.1.1.13 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.66816	 Delay: -nan s 
+
+Flow 27 (10.1.2.15 -> 10.1.2.1)	Throughput: 1.09406 Mbps	Time: 3.01254	 Delay: 1.96508 s 
+
+Flow 28 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.698531 Mbps	Time: 5.35727	 Delay: 3.69369 s 
+
+Flow 29 (10.1.1.4 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.68142	 Delay: -nan s 
+
+Flow 30 (10.1.0.3 -> 10.1.0.1)	Throughput: 2.41873 Mbps	Time: 6.19819	 Delay: 2.16583 s 
+
+Flow 31 (10.1.0.8 -> 10.1.0.1)	Throughput: 2.34605 Mbps	Time: 0.946338	 Delay: 0.846591 s 
+
+Flow 32 (10.1.2.11 -> 10.1.2.1)	Throughput: 23.0253 Mbps	Time: 6.24013	 Delay: 0.131221 s 
+
+Flow 33 (10.1.1.5 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.76899	 Delay: -nan s 
+
+Flow 34 (10.1.0.2 -> 10.1.0.1)	Throughput: 2.81513 Mbps	Time: 5.50836	 Delay: 2.51757 s 
+
+Flow 35 (10.1.0.13 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.8119	 Delay: -nan s 
+
+Flow 36 (10.1.1.8 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.86374	 Delay: -nan s 
+
+Flow 37 (10.1.1.11 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.87542	 Delay: -nan s 
+
+Flow 38 (10.1.2.2 -> 10.1.2.1)	Throughput: 2.95834 Mbps	Time: 1.5551	 Delay: 0.999568 s 
+
+Flow 39 (10.1.0.6 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.91534	 Delay: -nan s 
+
+Flow 40 (10.1.2.5 -> 10.1.2.1)	Throughput: 1.15804 Mbps	Time: 2.90539	 Delay: 1.08243 s 
+
+Flow 41 (10.1.1.7 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.96113	 Delay: -nan s 
+
+Flow 42 (10.1.2.14 -> 10.1.2.1)	Throughput: 11.605 Mbps	Time: 5.95726	 Delay: 0.906106 s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.412s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.1.6 -> 10.1.1.1)	Throughput: 13.1912 Mbps	Time: 6.91704	 Delay: 0.845931 s 
+
+Flow 2 (10.1.0.7 -> 10.1.0.1)	Throughput: 8.75785 Mbps	Time: 6.65122	 Delay: 1.01953 s 
+
+Flow 3 (10.1.0.11 -> 10.1.0.1)	Throughput: 15.5881 Mbps	Time: 6.97081	 Delay: 0.567678 s 
+
+Flow 4 (10.1.2.9 -> 10.1.2.1)	Throughput: 14.0454 Mbps	Time: 0.35199	 Delay: 0.0316104 s 
+
+Flow 5 (10.1.0.12 -> 10.1.0.1)	Throughput: 18.9444 Mbps	Time: 0.227741	 Delay: 0.0149326 s 
+
+Flow 6 (10.1.1.13 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.11481	 Delay: -nan s 
+
+Flow 7 (10.1.1.8 -> 10.1.1.1)	Throughput: 3.95598 Mbps	Time: 6.39322	 Delay: 2.12275 s 
+
+Flow 8 (10.1.1.11 -> 10.1.1.1)	Throughput: 23.8284 Mbps	Time: 6.85106	 Delay: 0.124434 s 
+
+Flow 9 (10.1.0.3 -> 10.1.0.1)	Throughput: 4.41224 Mbps	Time: 6.79035	 Delay: 2.08817 s 
+
+Flow 10 (10.1.2.12 -> 10.1.2.1)	Throughput: 0.70105 Mbps	Time: 5.87671	 Delay: 2.09807 s 
+
+Flow 11 (10.1.2.6 -> 10.1.2.1)	Throughput: 0.920142 Mbps	Time: 6.18135	 Delay: 2.04332 s 
+
+Flow 12 (10.1.1.5 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.18314	 Delay: -nan s 
+
+Flow 13 (10.1.2.11 -> 10.1.2.1)	Throughput: 16.6706 Mbps	Time: 6.79414	 Delay: 0.567089 s 
+
+Flow 14 (10.1.1.9 -> 10.1.1.1)	Throughput: 16.9071 Mbps	Time: 6.75052	 Delay: 0.659166 s 
+
+Flow 15 (10.1.1.3 -> 10.1.1.1)	Throughput: 0.510954 Mbps	Time: 5.77856	 Delay: 2.65564 s 
+
+Flow 16 (10.1.2.8 -> 10.1.2.1)	Throughput: 24.2667 Mbps	Time: 6.67876	 Delay: 0.0937518 s 
+
+Flow 17 (10.1.2.10 -> 10.1.2.1)	Throughput: 0.926337 Mbps	Time: 5.90528	 Delay: 2.46726 s 
+
+Flow 18 (10.1.0.8 -> 10.1.0.1)	Throughput: 1.17591 Mbps	Time: 4.85632	 Delay: 2.1172 s 
+
+Flow 19 (10.1.2.13 -> 10.1.2.1)	Throughput: 7.12384 Mbps	Time: 6.48845	 Delay: 1.37067 s 
+
+Flow 20 (10.1.2.14 -> 10.1.2.1)	Throughput: 15.1674 Mbps	Time: 6.49187	 Delay: 0.637779 s 
+
+Flow 21 (10.1.1.15 -> 10.1.1.1)	Throughput: 0.557725 Mbps	Time: 4.73994	 Delay: 3.27619 s 
+
+Flow 22 (10.1.1.4 -> 10.1.1.1)	Throughput: 1.52228 Mbps	Time: 6.37505	 Delay: 4.49124 s 
+
+Flow 23 (10.1.2.7 -> 10.1.2.1)	Throughput: -0 Mbps	Time: -3.46545	 Delay: -nan s 
+
+Flow 24 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.841484 Mbps	Time: 5.68476	 Delay: 3.54534 s 
+
+Flow 25 (10.1.2.5 -> 10.1.2.1)	Throughput: 0.674007 Mbps	Time: 4.63532	 Delay: 2.59459 s 
+
+Flow 26 (10.1.0.9 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.5897	 Delay: -nan s 
+
+Flow 27 (10.1.0.6 -> 10.1.0.1)	Throughput: 0.606317 Mbps	Time: 4.24682	 Delay: 1.93857 s 
+
+Flow 28 (10.1.0.13 -> 10.1.0.1)	Throughput: 4.28373 Mbps	Time: 6.33152	 Delay: 1.67519 s 
+
+Flow 29 (10.1.2.3 -> 10.1.2.1)	Throughput: 0.936929 Mbps	Time: 4.38499	 Delay: 3.27472 s 
+
+Flow 30 (10.1.2.4 -> 10.1.2.1)	Throughput: 2.33212 Mbps	Time: 6.12414	 Delay: 2.22091 s 
+
+Flow 31 (10.1.1.7 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.72244	 Delay: -nan s 
+
+Flow 32 (10.1.0.14 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.73993	 Delay: -nan s 
+
+Flow 33 (10.1.0.5 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.78711	 Delay: -nan s 
+
+Flow 34 (10.1.0.10 -> 10.1.0.1)	Throughput: 1.60036 Mbps	Time: 3.16788	 Delay: 1.73103 s 
+
+Flow 35 (10.1.2.2 -> 10.1.2.1)	Throughput: 0.944511 Mbps	Time: 5.86435	 Delay: 3.56079 s 
+
+Flow 36 (10.1.1.2 -> 10.1.1.1)	Throughput: 0.0813003 Mbps	Time: 5.91205	 Delay: 5.83551 s 
+
+Flow 37 (10.1.2.15 -> 10.1.2.1)	Throughput: 0.825942 Mbps	Time: 4.2953	 Delay: 2.2705 s 
+
+Flow 38 (10.1.1.14 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.90665	 Delay: -nan s 
+
+Flow 39 (10.1.1.10 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.93868	 Delay: -nan s 
+
+Flow 40 (10.1.0.4 -> 10.1.0.1)	Throughput: 23.8346 Mbps	Time: 6.01719	 Delay: 0.227559 s 
+
+Flow 41 (10.1.0.2 -> 10.1.0.1)	Throughput: 2.99437 Mbps	Time: 4.90346	 Delay: 2.68951 s 
+
+Flow 42 (10.1.1.12 -> 10.1.1.1)	Throughput: 2.93511 Mbps	Time: 5.96943	 Delay: 2.29516 s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.448s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.0.3 -> 10.1.0.1)	Throughput: 3.22943 Mbps	Time: 6.32548	 Delay: 1.73158 s 
+
+Flow 2 (10.1.1.14 -> 10.1.1.1)	Throughput: 11.1312 Mbps	Time: 6.95515	 Delay: 0.923484 s 
+
+Flow 3 (10.1.2.5 -> 10.1.2.1)	Throughput: 2.45701 Mbps	Time: 3.63303	 Delay: 0.860598 s 
+
+Flow 4 (10.1.1.13 -> 10.1.1.1)	Throughput: 1.95968 Mbps	Time: 3.79585	 Delay: 0.647724 s 
+
+Flow 5 (10.1.0.11 -> 10.1.0.1)	Throughput: 10.3929 Mbps	Time: 6.83153	 Delay: 1.06775 s 
+
+Flow 6 (10.1.0.5 -> 10.1.0.1)	Throughput: 16.9492 Mbps	Time: 6.79519	 Delay: 0.617719 s 
+
+Flow 7 (10.1.1.4 -> 10.1.1.1)	Throughput: 3.66084 Mbps	Time: 6.16463	 Delay: 1.61713 s 
+
+Flow 8 (10.1.2.6 -> 10.1.2.1)	Throughput: 12.7128 Mbps	Time: 0.26556	 Delay: 0.0972496 s 
+
+Flow 9 (10.1.2.8 -> 10.1.2.1)	Throughput: 19.8997 Mbps	Time: 6.73718	 Delay: 0.418615 s 
+
+Flow 10 (10.1.1.3 -> 10.1.1.1)	Throughput: 0.217403 Mbps	Time: 4.42177	 Delay: 4.4008 s 
+
+Flow 11 (10.1.1.10 -> 10.1.1.1)	Throughput: 0.380639 Mbps	Time: 6.34382	 Delay: 3.07438 s 
+
+Flow 12 (10.1.2.3 -> 10.1.2.1)	Throughput: 3.62805 Mbps	Time: 0.1451	 Delay: 0.132863 s 
+
+Flow 13 (10.1.1.8 -> 10.1.1.1)	Throughput: 6.97116 Mbps	Time: 6.64041	 Delay: 1.43228 s 
+
+Flow 14 (10.1.0.7 -> 10.1.0.1)	Throughput: 5.65272 Mbps	Time: 6.41978	 Delay: 1.55845 s 
+
+Flow 15 (10.1.2.10 -> 10.1.2.1)	Throughput: 1.23995 Mbps	Time: 6.06376	 Delay: 2.3847 s 
+
+Flow 16 (10.1.0.4 -> 10.1.0.1)	Throughput: 22.2931 Mbps	Time: 6.51129	 Delay: 0.223789 s 
+
+Flow 17 (10.1.0.10 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.48526	 Delay: -nan s 
+
+Flow 18 (10.1.1.9 -> 10.1.1.1)	Throughput: 8.99238 Mbps	Time: 6.50575	 Delay: 1.1609 s 
+
+Flow 19 (10.1.0.8 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.48595	 Delay: -nan s 
+
+Flow 20 (10.1.1.7 -> 10.1.1.1)	Throughput: 0.422952 Mbps	Time: 5.33036	 Delay: 2.66208 s 
+
+Flow 21 (10.1.1.2 -> 10.1.1.1)	Throughput: 0.00914415 Mbps	Time: 6.2576	 Delay: 5.04494 s 
+
+Flow 22 (10.1.1.15 -> 10.1.1.1)	Throughput: 0.502499 Mbps	Time: 4.78261	 Delay: 3.58843 s 
+
+Flow 23 (10.1.0.6 -> 10.1.0.1)	Throughput: 0.228771 Mbps	Time: 4.40214	 Delay: 2.06021 s 
+
+Flow 24 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.586428 Mbps	Time: 5.40563	 Delay: 2.63529 s 
+
+Flow 25 (10.1.2.12 -> 10.1.2.1)	Throughput: 0.406593 Mbps	Time: 5.85444	 Delay: 3.66024 s 
+
+Flow 26 (10.1.1.5 -> 10.1.1.1)	Throughput: 0.148571 Mbps	Time: 5.39193	 Delay: 2.2657 s 
+
+Flow 27 (10.1.0.9 -> 10.1.0.1)	Throughput: 0.520995 Mbps	Time: 4.61282	 Delay: 4.252 s 
+
+Flow 28 (10.1.1.11 -> 10.1.1.1)	Throughput: 21.272 Mbps	Time: 6.28478	 Delay: 0.18217 s 
+
+Flow 29 (10.1.2.14 -> 10.1.2.1)	Throughput: 14.4449 Mbps	Time: 6.23348	 Delay: 0.724903 s 
+
+Flow 30 (10.1.1.12 -> 10.1.1.1)	Throughput: 4.84187 Mbps	Time: 5.82384	 Delay: 1.66866 s 
+
+Flow 31 (10.1.0.13 -> 10.1.0.1)	Throughput: 1.41224 Mbps	Time: 3.16847	 Delay: 2.43219 s 
+
+Flow 32 (10.1.2.11 -> 10.1.2.1)	Throughput: 20.1897 Mbps	Time: 6.18296	 Delay: 0.454767 s 
+
+Flow 33 (10.1.2.13 -> 10.1.2.1)	Throughput: 5.92379 Mbps	Time: 6.08545	 Delay: 1.68329 s 
+
+Flow 34 (10.1.1.6 -> 10.1.1.1)	Throughput: 8.01816 Mbps	Time: 6.08446	 Delay: 1.26713 s 
+
+Flow 35 (10.1.2.2 -> 10.1.2.1)	Throughput: 1.64751 Mbps	Time: 3.40369	 Delay: 2.23759 s 
+
+Flow 36 (10.1.0.14 -> 10.1.0.1)	Throughput: 0.657868 Mbps	Time: 6.0885	 Delay: 5.32033 s 
+
+Flow 37 (10.1.0.2 -> 10.1.0.1)	Throughput: 0.754215 Mbps	Time: 0.60694	 Delay: 0.532755 s 
+
+Flow 38 (10.1.2.9 -> 10.1.2.1)	Throughput: 0.366769 Mbps	Time: 5.1796	 Delay: 4.43334 s 
+
+Flow 39 (10.1.2.4 -> 10.1.2.1)	Throughput: 2.95021 Mbps	Time: 5.88456	 Delay: 1.76534 s 
+
+Flow 40 (10.1.2.7 -> 10.1.2.1)	Throughput: -0 Mbps	Time: -3.96066	 Delay: -nan s 
+
+Flow 41 (10.1.0.12 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.96647	 Delay: -nan s 
+
+Flow 42 (10.1.2.15 -> 10.1.2.1)	Throughput: -0 Mbps	Time: -3.97982	 Delay: -nan s 
+
+Waf: Entering directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Waf: Leaving directory `/home/osboxes/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.437s)
+There are 3 APs in 2 layers.
+Show AP's position: 
+Node Number(0) has coordinates (0, 0, 10)
+Node Number(1) has coordinates (13.8564, 8, 10)
+Node Number(2) has coordinates (0, 16, 10)
+Show Stations around AP(0):
+Node Number(0) has coordinates (6.421, -1.9873, 1.5)
+Node Number(1) has coordinates (2.72768, -1.58562, 1.5)
+Node Number(2) has coordinates (-4.12193, -4.71777, 1.5)
+Node Number(3) has coordinates (-1.30329, -6.25315, 1.5)
+Node Number(4) has coordinates (4.59203, 5.66602, 1.5)
+Node Number(5) has coordinates (-1.23669, -0.984019, 1.5)
+Node Number(6) has coordinates (2.66773, 0.274187, 1.5)
+Node Number(7) has coordinates (0.274589, 6.1397, 1.5)
+Node Number(8) has coordinates (1.44605, 1.68734, 1.5)
+Node Number(9) has coordinates (1.47962, -4.17747, 1.5)
+Node Number(10) has coordinates (2.11325, 3.18124, 1.5)
+Node Number(11) has coordinates (-4.08761, 2.93292, 1.5)
+Node Number(12) has coordinates (2.0005, 2.1247, 1.5)
+Node Number(13) has coordinates (3.18416, 2.59427, 1.5)
+Show Stations around AP(1):
+Node Number(0) has coordinates (7.38449, 12.6879, 1.5)
+Node Number(1) has coordinates (15.2124, 6.9, 1.5)
+Node Number(2) has coordinates (13.0037, 12.0139, 1.5)
+Node Number(3) has coordinates (9.82725, 13.3693, 1.5)
+Node Number(4) has coordinates (15.5953, 3.41773, 1.5)
+Node Number(5) has coordinates (15.9247, 6.84641, 1.5)
+Node Number(6) has coordinates (18.4747, 10.1646, 1.5)
+Node Number(7) has coordinates (17.8399, 6.68704, 1.5)
+Node Number(8) has coordinates (9.9603, 7.35791, 1.5)
+Node Number(9) has coordinates (20.5284, 12.0058, 1.5)
+Node Number(10) has coordinates (14.6875, 10.1876, 1.5)
+Node Number(11) has coordinates (10.6562, 2.7238, 1.5)
+Node Number(12) has coordinates (17.1072, 5.31867, 1.5)
+Node Number(13) has coordinates (10.2708, 13.008, 1.5)
+Show Stations around AP(2):
+Node Number(0) has coordinates (-0.503281, 15.8987, 1.5)
+Node Number(1) has coordinates (0.15533, 16.0391, 1.5)
+Node Number(2) has coordinates (-3.3841, 17.3983, 1.5)
+Node Number(3) has coordinates (0.459174, 15.7904, 1.5)
+Node Number(4) has coordinates (1.72892, 15.1971, 1.5)
+Node Number(5) has coordinates (-1.40936, 8.3639, 1.5)
+Node Number(6) has coordinates (-1.5432, 23.0508, 1.5)
+Node Number(7) has coordinates (-0.489982, 9.2103, 1.5)
+Node Number(8) has coordinates (-1.36005, 14.3564, 1.5)
+Node Number(9) has coordinates (-2.62614, 19.4277, 1.5)
+Node Number(10) has coordinates (-1.14238, 13.2242, 1.5)
+Node Number(11) has coordinates (3.06388, 21.2539, 1.5)
+Node Number(12) has coordinates (-3.81334, 17.5069, 1.5)
+Node Number(13) has coordinates (3.89573, 12.3451, 1.5)
+Flow 1 (10.1.2.5 -> 10.1.2.1)	Throughput: 1.8277 Mbps	Time: 5.30347	 Delay: 1.39467 s 
+
+Flow 2 (10.1.0.5 -> 10.1.0.1)	Throughput: 20.307 Mbps	Time: 6.95143	 Delay: 0.471475 s 
+
+Flow 3 (10.1.1.9 -> 10.1.1.1)	Throughput: 14.6148 Mbps	Time: 6.70601	 Delay: 0.717396 s 
+
+Flow 4 (10.1.1.4 -> 10.1.1.1)	Throughput: 3.44045 Mbps	Time: 5.861	 Delay: 2.29112 s 
+
+Flow 5 (10.1.2.11 -> 10.1.2.1)	Throughput: 23.224 Mbps	Time: 6.78002	 Delay: 0.172667 s 
+
+Flow 6 (10.1.1.6 -> 10.1.1.1)	Throughput: 9.50681 Mbps	Time: 6.77968	 Delay: 0.874487 s 
+
+Flow 7 (10.1.1.13 -> 10.1.1.1)	Throughput: 15.9797 Mbps	Time: 0.14753	 Delay: 0.0291607 s 
+
+Flow 8 (10.1.1.10 -> 10.1.1.1)	Throughput: 0.674754 Mbps	Time: 6.05486	 Delay: 3.21043 s 
+
+Flow 9 (10.1.2.8 -> 10.1.2.1)	Throughput: 24.2937 Mbps	Time: 6.71983	 Delay: 0.054384 s 
+
+Flow 10 (10.1.0.12 -> 10.1.0.1)	Throughput: 12.203 Mbps	Time: 0.221322	 Delay: 0.0671016 s 
+
+Flow 11 (10.1.1.14 -> 10.1.1.1)	Throughput: 12.9537 Mbps	Time: 6.63304	 Delay: 0.83351 s 
+
+Flow 12 (10.1.0.7 -> 10.1.0.1)	Throughput: 4.09587 Mbps	Time: 5.78369	 Delay: 2.0256 s 
+
+Flow 13 (10.1.0.4 -> 10.1.0.1)	Throughput: 24.2858 Mbps	Time: 6.66879	 Delay: 0.0453046 s 
+
+Flow 14 (10.1.2.4 -> 10.1.2.1)	Throughput: 1.55713 Mbps	Time: 3.70413	 Delay: 2.76089 s 
+
+Flow 15 (10.1.1.12 -> 10.1.1.1)	Throughput: 7.49366 Mbps	Time: 6.64319	 Delay: 1.228 s 
+
+Flow 16 (10.1.1.2 -> 10.1.1.1)	Throughput: 0.149779 Mbps	Time: 3.20907	 Delay: 3.08542 s 
+
+Flow 17 (10.1.1.3 -> 10.1.1.1)	Throughput: 1.07535 Mbps	Time: 4.03339	 Delay: 2.40404 s 
+
+Flow 18 (10.1.2.14 -> 10.1.2.1)	Throughput: 13.2092 Mbps	Time: 6.542	 Delay: 0.76157 s 
+
+Flow 19 (10.1.2.15 -> 10.1.2.1)	Throughput: 0.617527 Mbps	Time: 1.57523	 Delay: 0.356727 s 
+
+Flow 20 (10.1.0.9 -> 10.1.0.1)	Throughput: 0.301206 Mbps	Time: 1.55776	 Delay: 1.50077 s 
+
+Flow 21 (10.1.1.8 -> 10.1.1.1)	Throughput: 9.73665 Mbps	Time: 6.46919	 Delay: 1.05386 s 
+
+Flow 22 (10.1.2.13 -> 10.1.2.1)	Throughput: 7.88579 Mbps	Time: 6.47394	 Delay: 1.40418 s 
+
+Flow 23 (10.1.0.3 -> 10.1.0.1)	Throughput: 2.42443 Mbps	Time: 6.44324	 Delay: 2.4793 s 
+
+Flow 24 (10.1.2.3 -> 10.1.2.1)	Throughput: 0.311438 Mbps	Time: 5.40166	 Delay: 4.99689 s 
+
+Flow 25 (10.1.0.13 -> 10.1.0.1)	Throughput: 2.21013 Mbps	Time: 1.0822	 Delay: 0.759497 s 
+
+Flow 26 (10.1.0.2 -> 10.1.0.1)	Throughput: 2.00658 Mbps	Time: 5.50936	 Delay: 2.47244 s 
+
+Flow 27 (10.1.0.11 -> 10.1.0.1)	Throughput: 7.96298 Mbps	Time: 6.30483	 Delay: 1.2932 s 
+
+Flow 28 (10.1.0.10 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.63211	 Delay: -nan s 
+
+Flow 29 (10.1.2.9 -> 10.1.2.1)	Throughput: 0.186683 Mbps	Time: 5.1494	 Delay: 2.5703 s 
+
+Flow 30 (10.1.2.10 -> 10.1.2.1)	Throughput: 0.62059 Mbps	Time: 5.84569	 Delay: 4.42154 s 
+
+Flow 31 (10.1.0.6 -> 10.1.0.1)	Throughput: -0 Mbps	Time: -3.69425	 Delay: -nan s 
+
+Flow 32 (10.1.0.15 -> 10.1.0.1)	Throughput: 0.659333 Mbps	Time: 5.13769	 Delay: 3.15132 s 
+
+Flow 33 (10.1.1.5 -> 10.1.1.1)	Throughput: 0.315576 Mbps	Time: 2.32091	 Delay: 2.25734 s 
+
+Flow 34 (10.1.0.14 -> 10.1.0.1)	Throughput: 0.682364 Mbps	Time: 5.95379	 Delay: 4.08681 s 
+
+Flow 35 (10.1.1.15 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.78697	 Delay: -nan s 
+
+Flow 36 (10.1.2.7 -> 10.1.2.1)	Throughput: 0.67221 Mbps	Time: 1.53221	 Delay: 0.87847 s 
+
+Flow 37 (10.1.1.7 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.81892	 Delay: -nan s 
+
+Flow 38 (10.1.1.11 -> 10.1.1.1)	Throughput: -0 Mbps	Time: -3.8622	 Delay: -nan s 
+
+Flow 39 (10.1.0.8 -> 10.1.0.1)	Throughput: 0.445984 Mbps	Time: 5.79923	 Delay: 5.02271 s 
+
+Flow 40 (10.1.2.6 -> 10.1.2.1)	Throughput: 0.131999 Mbps	Time: 3.64133	 Delay: 3.56478 s 
+
+Flow 41 (10.1.2.2 -> 10.1.2.1)	Throughput: -0 Mbps	Time: -3.91944	 Delay: -nan s 
+
+Flow 42 (10.1.2.12 -> 10.1.2.1)	Throughput: 1.82105 Mbps	Time: 0.791828	 Delay: 0.551375 s 
